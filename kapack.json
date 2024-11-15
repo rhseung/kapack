@@ -1,0 +1,8 @@
+{
+    "name": "your_project",
+    "version": "1.0.0",
+    "dependencies": [
+        "https://github.com/NyangBotLab/DBManager_deploy.git",
+        "https://github.com/naijun0403/kakaolink"
+    ]
+}
